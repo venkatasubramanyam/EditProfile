@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">EditProfile</string>
+    <string name="loading">Loading...</string>
+    <string name="label_loginactivity">Login/Signup</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="log_in_button">Log In</string>
+    <string name="sign_up_button">Sign Up</string>
+    <string name="sign_up_label">Don\'t have an account yet? Sign up!</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_nickname_hint">Enter Nickname</string>
+    <string name="enter_password_hint">Enter Password</string>
+    <string name="enter_password_again_hint">Confirm Password</string>
+    <string name="sign_in_to_continue">Sign in to continue</string>
+    <string name="sign_up_to_continue">Sign up to continue</string>
+    <string name="settings">Settings</string>
+    <string name="choose_a_category">Choose a category:</string>
+    <string name="choose_difficulty">Choose difficulty</string>
+    <string name="enter_new_password">Enter new password</string>
+    <string name="repeat_new_password">Repeat new password</string>
+    <string name="err_text_dialog">Please choose a category and a difficulty</string>
+    <string name="enter_old_pass">Enter old pass</string>
+    <string name="welcome_back">Welcome back!</string>
+    <string name="enter_password">Enter password</string>
+    <string name="user_profile">Edit Profile</string>
+    <string name="display_name">Display Name</string>
+    <string name="real_name">Real Name</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="birthday">Birthday</string>
+    <string name="gender">Gender</string>
+    <string name="ethnicity">Ethnicity</string>
+    <string name="religion">Religion</string>
+    <string name="height">Height</string>
+    <string name="figure">Figure</string>
+    <string name="marital_status">Marital Status</string>
+    <string name="occupation">Occupation</string>
+    <string name="about_me">About Me</string>
+    <string name="location">Location</string>
+    <string name="update_profile">Update Profile</string>
+    <string name="logout">Logout</string>
+    <string name="delete_account">Delete Account</string>
+    <string name="continue_button">Continue</string>
+
+
+</resources>
